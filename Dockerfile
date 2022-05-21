@@ -1,3 +1,3 @@
-FROM node:16.13.2
+FROM node:gallium-buster
 
 RUN apt-get install -y imagemagick
