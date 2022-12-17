@@ -1,3 +1,3 @@
-FROM node:16.13.2
+FROM node:16.19
 
 RUN apt-get install -y imagemagick
